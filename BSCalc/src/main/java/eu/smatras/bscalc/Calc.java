@@ -14,6 +14,6 @@ public class Calc {
     public static void main(String[] args) throws IOException {
         
     simpleCalc sc = new simpleCalc("C:\\Users\\Misiek\\Desktop\\1.txt");
-    sc.doCalc();
+    sc.doCalc(); 
     }
 }
