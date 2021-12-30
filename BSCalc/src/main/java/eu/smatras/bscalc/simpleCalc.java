@@ -45,7 +45,7 @@ public class simpleCalc {
                     case "MULTIPLY":
                         tmp = sc.nextLine();
                         logOut("MULTIPLY", tmp);
-                        break;
+                        break; 
                 }
             }
             
